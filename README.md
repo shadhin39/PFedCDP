@@ -40,7 +40,7 @@ The PFedCDP framework operates in **two main phases**:
 
 **Figure (a)**: High-level PFedCDP architecture with heterogeneous client clusters and server refinement.  
 <p align="center">
-  <img src="https://github.com/shadhin39/PFedCDP/blob/main/Group%20167.png?raw=true" width="90%">
+  <img src="https://github.com/shadhin39/PFedCDP/blob/main/Group%20167.png?raw=true">
 </p>  
 **Figure (b)**: Iterative training loop with Fisher-based personalization and KD.
 
