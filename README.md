@@ -5,10 +5,10 @@ Our framework is specifically evaluated on **medical imaging datasets** to demon
 
 ## Key Features
 
-- **Heterogeneity-Aware Client Clustering**:  
+- **Heterogeneity Aware Client Clustering**:  
   Clients are grouped into High, Medium, and Low capability clusters based on CPU, memory, battery, and network resources. Each cluster is assigned a model architecture suited to its capability.
 
-- **Fisher Information-Guided Personalization**:  
+- **Fisher Information Guided Personalization**:  
   Preserves locally important parameters while replacing less critical ones with global knowledge, balancing personalization and generalization.
 
 - **Knowledge Distillation (KD)**:  
