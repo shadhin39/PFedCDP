@@ -76,7 +76,7 @@ shap
 
 ---
 
-## Parameters
+## Few Important Parameters
 
 | Argument             | Description                                | Value |
 |----------------------|--------------------------------------------|-------|
