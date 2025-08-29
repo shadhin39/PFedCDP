@@ -35,12 +35,12 @@ The PFedCDP framework operates in **two main phases**:
 2. **Server-Side Post-Hoc Refinement** (MTKD + Shapley weighting + SCL).
 
 <p align="center">
-  <img src="https://github.com/shadhin39/PFedCDP/blob/main/Group%20167.png?raw=true" width="90%">
+  <img src="https://github.com/shadhin39/PFedCDP/blob/main/Group%20166.png?raw=true" width="90%">
 </p>  
 
 **Figure (a)**: High-level PFedCDP architecture with heterogeneous client clusters and server refinement.  
 <p align="center">
-  <img src="https://github.com/shadhin39/PFedCDP/blob/main/Group%20168.png?raw=true" width="90%">
+  <img src="https://github.com/shadhin39/PFedCDP/blob/main/Group%20167.png?raw=true" width="90%">
 </p>  
 **Figure (b)**: Iterative training loop with Fisher-based personalization and KD.
 
