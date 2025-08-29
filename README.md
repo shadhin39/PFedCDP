@@ -3,7 +3,7 @@ Our framework is specifically evaluated on **medical imaging datasets** to demon
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Heterogeneity-Aware Client Clustering**:  
   Clients are grouped into High, Medium, and Low capability clusters based on CPU, memory, battery, and network resources. Each cluster is assigned a model architecture suited to its capability.
@@ -58,7 +58,7 @@ We simulate realistic medical imaging with **two mammography datasets**:
 
 ---
 
-## 🔧 Dependencies
+## Dependencies
 
 The implementation is built with the **[Flower](https://flower.dev/)** federated learning framework.
 
@@ -74,7 +74,7 @@ shap
 
 ---
 
-## ⚙️ Parameters
+## Parameters
 
 | Argument             | Description                                | Value |
 |----------------------|--------------------------------------------|-------|
