@@ -55,7 +55,7 @@ We simulate realistic medical imaging with **two mammography datasets**:
   Partitioned across clients using **Dirichlet distribution ($\alpha=0.5$)** to mimic statistical heterogeneity.
 
 - **Public Server Data**:  
-  [MIAS](https://www.kaggle.com/datasets/kmader/mias-mammography))  
+  [MIAS](https://www.kaggle.com/datasets/kmader/mias-mammography)  
   Used only for post-hoc refinement to improve generalization without exposing private data.
 
 ---
