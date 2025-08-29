@@ -1,0 +1,14 @@
+Model_A - Round 1 completed with DP+Quantization at 1752053448.94287
+Model_A - Round 2 completed with DP+Quantization at 1752053560.856579
+Model_A - Round 3 completed with DP+Quantization at 1752053667.822542
+Model_A - Round 4 completed with DP+Quantization at 1752053809.455791
+Model_B - Round 1 completed with DP+Quantization at 1752053821.959642
+Model_B - Round 2 completed with DP+Quantization at 1752053954.24104
+Model_A - Round 5 completed with DP+Quantization at 1752053964.234046
+Model_B - Round 3 completed with DP+Quantization at 1752054093.037548
+Model_A - Round 6 completed with DP+Quantization at 1752054148.86907
+Model_B - Round 4 completed with DP+Quantization at 1752054247.528518
+Model_A - Round 7 completed with DP+Quantization at 1752054324.550886
+Model_B - Round 5 completed with DP+Quantization at 1752054386.245621
+Model_A - Round 8 completed with DP+Quantization at 1752054464.373498
+Model_B - Round 6 completed with DP+Quantization at 1752054496.833787

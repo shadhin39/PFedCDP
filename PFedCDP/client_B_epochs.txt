@@ -1,0 +1,262 @@
+CLIENT B (ID: 2) DETAILED EPOCH TRACKING WITH FISHER INFORMATION
+======================================================================
+[CLIENT B-2] Epoch 1/8 - 6s 335ms/step - total_loss: 1.6345 - ce_loss: 2.3127 - kd_loss: 0.0058 - accuracy: 0.1484
+[CLIENT B-2] Epoch 2/8 - 8s 455ms/step - total_loss: 1.6400 - ce_loss: 2.3207 - kd_loss: 0.0058 - accuracy: 0.1404
+[CLIENT B-2] Epoch 3/8 - 8s 449ms/step - total_loss: 1.6422 - ce_loss: 2.3238 - kd_loss: 0.0058 - accuracy: 0.1373
+[CLIENT B-1] Epoch 1/8 - 24s 426ms/step - total_loss: 1.6459 - ce_loss: 2.3293 - kd_loss: 0.0057 - accuracy: 0.1320
+[CLIENT B-2] Epoch 4/8 - 9s 485ms/step - total_loss: 1.6398 - ce_loss: 2.3204 - kd_loss: 0.0057 - accuracy: 0.1407
+[CLIENT B-2] Epoch 5/8 - 9s 487ms/step - total_loss: 1.6467 - ce_loss: 2.3302 - kd_loss: 0.0058 - accuracy: 0.1309
+[CLIENT B-2] Epoch 6/8 - 8s 455ms/step - total_loss: 1.6371 - ce_loss: 2.3165 - kd_loss: 0.0058 - accuracy: 0.1446
+[CLIENT B-1] Epoch 2/8 - 25s 437ms/step - total_loss: 1.5956 - ce_loss: 2.2569 - kd_loss: 0.0059 - accuracy: 0.2043
+[CLIENT B-2] Epoch 7/8 - 8s 423ms/step - total_loss: 1.6471 - ce_loss: 2.3308 - kd_loss: 0.0058 - accuracy: 0.1304
+[CLIENT B-2] Epoch 8/8 - 8s 418ms/step - total_loss: 1.6384 - ce_loss: 2.3183 - kd_loss: 0.0058 - accuracy: 0.1429
+
+[CLIENT B-2] ROUND 1 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 19s 331ms/step - total_loss: 1.5501 - ce_loss: 2.1914 - kd_loss: 0.0060 - accuracy: 0.2697
+[CLIENT B-1] Epoch 4/8 - 13s 231ms/step - total_loss: 1.5384 - ce_loss: 2.1745 - kd_loss: 0.0060 - accuracy: 0.2867
+[CLIENT B-1] Epoch 5/8 - 12s 217ms/step - total_loss: 1.5319 - ce_loss: 2.1651 - kd_loss: 0.0060 - accuracy: 0.2960
+[CLIENT B-1] Epoch 6/8 - 17s 294ms/step - total_loss: 1.5161 - ce_loss: 2.1426 - kd_loss: 0.0060 - accuracy: 0.3185
+[CLIENT B-1] Epoch 7/8 - 15s 260ms/step - total_loss: 1.5038 - ce_loss: 2.1250 - kd_loss: 0.0061 - accuracy: 0.3362
+[CLIENT B-1] Epoch 8/8 - 15s 256ms/step - total_loss: 1.4936 - ce_loss: 2.1102 - kd_loss: 0.0061 - accuracy: 0.3509
+
+[CLIENT B-1] ROUND 1 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 1: Loss=2.3026, Accuracy=0.0095
+[CLIENT B-1] Evaluation Round 1: Loss=2.2795, Accuracy=0.2332
+[CLIENT B-2] Epoch 1/8 - 5s 299ms/step - total_loss: 1.6121 - ce_loss: 2.3017 - kd_loss: 0.0003 - accuracy: 0.2745
+[CLIENT B-2] Epoch 2/8 - 5s 267ms/step - total_loss: 1.6108 - ce_loss: 2.2999 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 3/8 - 6s 347ms/step - total_loss: 1.6095 - ce_loss: 2.2980 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-1] Epoch 1/8 - 19s 328ms/step - total_loss: 1.6093 - ce_loss: 2.2974 - kd_loss: 0.0004 - accuracy: 0.2456
+[CLIENT B-2] Epoch 4/8 - 9s 474ms/step - total_loss: 1.6081 - ce_loss: 2.2961 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 5/8 - 8s 456ms/step - total_loss: 1.6068 - ce_loss: 2.2942 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 6/8 - 10s 531ms/step - total_loss: 1.6054 - ce_loss: 2.2922 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-1] Epoch 2/8 - 29s 507ms/step - total_loss: 1.6053 - ce_loss: 2.2916 - kd_loss: 0.0004 - accuracy: 0.2456
+[CLIENT B-2] Epoch 7/8 - 8s 468ms/step - total_loss: 1.6040 - ce_loss: 2.2902 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 8/8 - 8s 466ms/step - total_loss: 1.6026 - ce_loss: 2.2882 - kd_loss: 0.0003 - accuracy: 0.3017
+
+[CLIENT B-2] ROUND 2 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 22s 382ms/step - total_loss: 1.6013 - ce_loss: 2.2858 - kd_loss: 0.0005 - accuracy: 0.2456
+[CLIENT B-1] Epoch 4/8 - 19s 326ms/step - total_loss: 1.5972 - ce_loss: 2.2797 - kd_loss: 0.0005 - accuracy: 0.2456
+[CLIENT B-1] Epoch 5/8 - 13s 236ms/step - total_loss: 1.5930 - ce_loss: 2.2736 - kd_loss: 0.0005 - accuracy: 0.2456
+[CLIENT B-1] Epoch 6/8 - 16s 279ms/step - total_loss: 1.5887 - ce_loss: 2.2675 - kd_loss: 0.0006 - accuracy: 0.2456
+[CLIENT B-1] Epoch 7/8 - 17s 296ms/step - total_loss: 1.5845 - ce_loss: 2.2613 - kd_loss: 0.0006 - accuracy: 0.2456
+[CLIENT B-1] Epoch 8/8 - 13s 231ms/step - total_loss: 1.5803 - ce_loss: 2.2551 - kd_loss: 0.0006 - accuracy: 0.2646
+
+[CLIENT B-1] ROUND 2 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 2: Loss=2.1468, Accuracy=0.3522
+[CLIENT B-1] Evaluation Round 2: Loss=1.9381, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 5s 292ms/step - total_loss: 1.6012 - ce_loss: 2.2862 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 2/8 - 5s 292ms/step - total_loss: 1.5998 - ce_loss: 2.2842 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 3/8 - 6s 314ms/step - total_loss: 1.5984 - ce_loss: 2.2822 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-1] Epoch 1/8 - 18s 308ms/step - total_loss: 1.5763 - ce_loss: 2.2490 - kd_loss: 0.0008 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 6s 346ms/step - total_loss: 1.5970 - ce_loss: 2.2802 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 5/8 - 7s 362ms/step - total_loss: 1.5955 - ce_loss: 2.2781 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 6/8 - 8s 449ms/step - total_loss: 1.5941 - ce_loss: 2.2761 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-1] Epoch 2/8 - 23s 397ms/step - total_loss: 1.5724 - ce_loss: 2.2431 - kd_loss: 0.0008 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 8s 472ms/step - total_loss: 1.5926 - ce_loss: 2.2740 - kd_loss: 0.0003 - accuracy: 0.3017
+[CLIENT B-2] Epoch 8/8 - 9s 473ms/step - total_loss: 1.5912 - ce_loss: 2.2719 - kd_loss: 0.0003 - accuracy: 0.3017
+
+[CLIENT B-2] ROUND 3 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 25s 446ms/step - total_loss: 1.5685 - ce_loss: 2.2373 - kd_loss: 0.0009 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 21s 374ms/step - total_loss: 1.5647 - ce_loss: 2.2317 - kd_loss: 0.0009 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 23s 396ms/step - total_loss: 1.5610 - ce_loss: 2.2263 - kd_loss: 0.0010 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 18s 309ms/step - total_loss: 1.5575 - ce_loss: 2.2210 - kd_loss: 0.0010 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 22s 389ms/step - total_loss: 1.5540 - ce_loss: 2.2159 - kd_loss: 0.0011 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 19s 331ms/step - total_loss: 1.5507 - ce_loss: 2.2109 - kd_loss: 0.0011 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 3 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 3: Loss=2.0101, Accuracy=0.3522
+[CLIENT B-1] Evaluation Round 3: Loss=1.7844, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 6s 343ms/step - total_loss: 1.5902 - ce_loss: 2.2698 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 2/8 - 6s 316ms/step - total_loss: 1.5887 - ce_loss: 2.2677 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 3/8 - 4s 241ms/step - total_loss: 1.5873 - ce_loss: 2.2657 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-1] Epoch 1/8 - 17s 293ms/step - total_loss: 1.5482 - ce_loss: 2.2060 - kd_loss: 0.0015 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 5s 290ms/step - total_loss: 1.5858 - ce_loss: 2.2636 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 5/8 - 5s 294ms/step - total_loss: 1.5843 - ce_loss: 2.2615 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 6/8 - 5s 301ms/step - total_loss: 1.5829 - ce_loss: 2.2594 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-1] Epoch 2/8 - 16s 285ms/step - total_loss: 1.5449 - ce_loss: 2.2011 - kd_loss: 0.0015 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 6s 359ms/step - total_loss: 1.5814 - ce_loss: 2.2573 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 8/8 - 7s 389ms/step - total_loss: 1.5799 - ce_loss: 2.2552 - kd_loss: 0.0005 - accuracy: 0.3017
+
+[CLIENT B-2] ROUND 4 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 20s 358ms/step - total_loss: 1.5419 - ce_loss: 2.1965 - kd_loss: 0.0016 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 18s 310ms/step - total_loss: 1.5389 - ce_loss: 2.1920 - kd_loss: 0.0017 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 19s 328ms/step - total_loss: 1.5361 - ce_loss: 2.1877 - kd_loss: 0.0017 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 18s 309ms/step - total_loss: 1.5333 - ce_loss: 2.1836 - kd_loss: 0.0018 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 17s 304ms/step - total_loss: 1.5307 - ce_loss: 2.1796 - kd_loss: 0.0018 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 16s 275ms/step - total_loss: 1.5282 - ce_loss: 2.1758 - kd_loss: 0.0019 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 4 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 4: Loss=1.8937, Accuracy=0.3522
+[CLIENT B-1] Evaluation Round 4: Loss=1.7627, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 6s 329ms/step - total_loss: 1.5785 - ce_loss: 2.2531 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 2/8 - 5s 295ms/step - total_loss: 1.5771 - ce_loss: 2.2511 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 3/8 - 5s 294ms/step - total_loss: 1.5756 - ce_loss: 2.2490 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-1] Epoch 1/8 - 17s 302ms/step - total_loss: 1.5258 - ce_loss: 2.1719 - kd_loss: 0.0020 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 6s 322ms/step - total_loss: 1.5742 - ce_loss: 2.2469 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 5/8 - 6s 316ms/step - total_loss: 1.5727 - ce_loss: 2.2449 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 6/8 - 6s 308ms/step - total_loss: 1.5713 - ce_loss: 2.2428 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-1] Epoch 2/8 - 19s 333ms/step - total_loss: 1.5233 - ce_loss: 2.1680 - kd_loss: 0.0021 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 6s 347ms/step - total_loss: 1.5699 - ce_loss: 2.2408 - kd_loss: 0.0005 - accuracy: 0.3017
+[CLIENT B-2] Epoch 8/8 - 6s 354ms/step - total_loss: 1.5685 - ce_loss: 2.2388 - kd_loss: 0.0005 - accuracy: 0.3027
+
+[CLIENT B-2] ROUND 5 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 18s 319ms/step - total_loss: 1.5210 - ce_loss: 2.1644 - kd_loss: 0.0022 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 20s 345ms/step - total_loss: 1.5188 - ce_loss: 2.1610 - kd_loss: 0.0023 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 17s 302ms/step - total_loss: 1.5167 - ce_loss: 2.1577 - kd_loss: 0.0023 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 20s 349ms/step - total_loss: 1.5148 - ce_loss: 2.1546 - kd_loss: 0.0024 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 20s 357ms/step - total_loss: 1.5130 - ce_loss: 2.1518 - kd_loss: 0.0025 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 22s 379ms/step - total_loss: 1.5113 - ce_loss: 2.1491 - kd_loss: 0.0026 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 5 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 5: Loss=1.7979, Accuracy=0.3002
+[CLIENT B-1] Evaluation Round 5: Loss=1.8391, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 7s 366ms/step - total_loss: 1.5675 - ce_loss: 2.2368 - kd_loss: 0.0007 - accuracy: 0.3098
+[CLIENT B-2] Epoch 2/8 - 5s 294ms/step - total_loss: 1.5661 - ce_loss: 2.2347 - kd_loss: 0.0007 - accuracy: 0.2942
+[CLIENT B-2] Epoch 3/8 - 5s 282ms/step - total_loss: 1.5647 - ce_loss: 2.2327 - kd_loss: 0.0007 - accuracy: 0.2942
+[CLIENT B-1] Epoch 1/8 - 18s 307ms/step - total_loss: 1.5105 - ce_loss: 2.1464 - kd_loss: 0.0029 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 6s 313ms/step - total_loss: 1.5633 - ce_loss: 2.2308 - kd_loss: 0.0007 - accuracy: 0.3068
+[CLIENT B-2] Epoch 5/8 - 6s 343ms/step - total_loss: 1.5619 - ce_loss: 2.2288 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 6/8 - 6s 308ms/step - total_loss: 1.5606 - ce_loss: 2.2269 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-1] Epoch 2/8 - 19s 325ms/step - total_loss: 1.5088 - ce_loss: 2.1437 - kd_loss: 0.0030 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 6s 308ms/step - total_loss: 1.5592 - ce_loss: 2.2249 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 8/8 - 6s 318ms/step - total_loss: 1.5579 - ce_loss: 2.2230 - kd_loss: 0.0007 - accuracy: 0.3236
+
+[CLIENT B-2] ROUND 6 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 16s 286ms/step - total_loss: 1.5073 - ce_loss: 2.1412 - kd_loss: 0.0031 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 12s 212ms/step - total_loss: 1.5060 - ce_loss: 2.1390 - kd_loss: 0.0032 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 11s 192ms/step - total_loss: 1.5048 - ce_loss: 2.1369 - kd_loss: 0.0033 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 11s 189ms/step - total_loss: 1.5037 - ce_loss: 2.1350 - kd_loss: 0.0034 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 15s 261ms/step - total_loss: 1.5027 - ce_loss: 2.1333 - kd_loss: 0.0035 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 16s 273ms/step - total_loss: 1.5018 - ce_loss: 2.1318 - kd_loss: 0.0036 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 6 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 6: Loss=1.7217, Accuracy=0.3002
+[CLIENT B-1] Evaluation Round 6: Loss=1.9814, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 7s 371ms/step - total_loss: 1.5567 - ce_loss: 2.2211 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 2/8 - 6s 358ms/step - total_loss: 1.5554 - ce_loss: 2.2192 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 3/8 - 5s 298ms/step - total_loss: 1.5541 - ce_loss: 2.2173 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-1] Epoch 1/8 - 19s 327ms/step - total_loss: 1.5012 - ce_loss: 2.1303 - kd_loss: 0.0037 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 4s 246ms/step - total_loss: 1.5528 - ce_loss: 2.2154 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 5/8 - 5s 260ms/step - total_loss: 1.5515 - ce_loss: 2.2136 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 6/8 - 4s 233ms/step - total_loss: 1.5502 - ce_loss: 2.2117 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-1] Epoch 2/8 - 14s 248ms/step - total_loss: 1.5004 - ce_loss: 2.1288 - kd_loss: 0.0038 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 4s 248ms/step - total_loss: 1.5489 - ce_loss: 2.2099 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 8/8 - 4s 238ms/step - total_loss: 1.5477 - ce_loss: 2.2081 - kd_loss: 0.0007 - accuracy: 0.3236
+
+[CLIENT B-2] ROUND 7 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 13s 223ms/step - total_loss: 1.4996 - ce_loss: 2.1274 - kd_loss: 0.0039 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 11s 185ms/step - total_loss: 1.4990 - ce_loss: 2.1261 - kd_loss: 0.0039 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 11s 186ms/step - total_loss: 1.4984 - ce_loss: 2.1250 - kd_loss: 0.0040 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 10s 183ms/step - total_loss: 1.4979 - ce_loss: 2.1241 - kd_loss: 0.0041 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 10s 178ms/step - total_loss: 1.4974 - ce_loss: 2.1232 - kd_loss: 0.0041 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 12s 210ms/step - total_loss: 1.4970 - ce_loss: 2.1224 - kd_loss: 0.0042 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 7 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 7: Loss=1.6645, Accuracy=0.3002
+[CLIENT B-1] Evaluation Round 7: Loss=2.1406, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 6s 352ms/step - total_loss: 1.5463 - ce_loss: 2.2063 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 2/8 - 6s 329ms/step - total_loss: 1.5451 - ce_loss: 2.2045 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 3/8 - 5s 280ms/step - total_loss: 1.5439 - ce_loss: 2.2028 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-1] Epoch 1/8 - 18s 321ms/step - total_loss: 1.4963 - ce_loss: 2.1217 - kd_loss: 0.0041 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 5s 299ms/step - total_loss: 1.5427 - ce_loss: 2.2010 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 5/8 - 5s 280ms/step - total_loss: 1.5415 - ce_loss: 2.1993 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 6/8 - 6s 331ms/step - total_loss: 1.5403 - ce_loss: 2.1976 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-1] Epoch 2/8 - 18s 319ms/step - total_loss: 1.4959 - ce_loss: 2.1209 - kd_loss: 0.0042 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 6s 334ms/step - total_loss: 1.5391 - ce_loss: 2.1959 - kd_loss: 0.0007 - accuracy: 0.3236
+[CLIENT B-2] Epoch 8/8 - 5s 288ms/step - total_loss: 1.5380 - ce_loss: 2.1942 - kd_loss: 0.0007 - accuracy: 0.3236
+
+[CLIENT B-2] ROUND 8 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 13s 236ms/step - total_loss: 1.4956 - ce_loss: 2.1202 - kd_loss: 0.0042 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 10s 175ms/step - total_loss: 1.4953 - ce_loss: 2.1196 - kd_loss: 0.0043 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 11s 193ms/step - total_loss: 1.4950 - ce_loss: 2.1190 - kd_loss: 0.0043 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 11s 185ms/step - total_loss: 1.4947 - ce_loss: 2.1185 - kd_loss: 0.0044 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 11s 187ms/step - total_loss: 1.4945 - ce_loss: 2.1181 - kd_loss: 0.0044 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 11s 199ms/step - total_loss: 1.4943 - ce_loss: 2.1177 - kd_loss: 0.0044 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 8 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 8: Loss=1.6249, Accuracy=0.3002
+[CLIENT B-1] Evaluation Round 8: Loss=2.2816, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 4s 236ms/step - total_loss: 1.5371 - ce_loss: 2.1926 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-2] Epoch 2/8 - 5s 260ms/step - total_loss: 1.5360 - ce_loss: 2.1909 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-2] Epoch 3/8 - 5s 260ms/step - total_loss: 1.5348 - ce_loss: 2.1893 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-1] Epoch 1/8 - 15s 258ms/step - total_loss: 1.4947 - ce_loss: 2.1173 - kd_loss: 0.0046 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 5s 263ms/step - total_loss: 1.5337 - ce_loss: 2.1877 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-2] Epoch 5/8 - 7s 390ms/step - total_loss: 1.5326 - ce_loss: 2.1861 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-2] Epoch 6/8 - 6s 354ms/step - total_loss: 1.5316 - ce_loss: 2.1845 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-1] Epoch 2/8 - 20s 344ms/step - total_loss: 1.4945 - ce_loss: 2.1169 - kd_loss: 0.0047 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 7s 373ms/step - total_loss: 1.5305 - ce_loss: 2.1830 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-2] Epoch 8/8 - 7s 384ms/step - total_loss: 1.5295 - ce_loss: 2.1815 - kd_loss: 0.0009 - accuracy: 0.3236
+
+[CLIENT B-2] ROUND 9 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 19s 340ms/step - total_loss: 1.4943 - ce_loss: 2.1166 - kd_loss: 0.0047 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 17s 292ms/step - total_loss: 1.4941 - ce_loss: 2.1162 - kd_loss: 0.0047 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 12s 207ms/step - total_loss: 1.4940 - ce_loss: 2.1159 - kd_loss: 0.0047 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 12s 203ms/step - total_loss: 1.4938 - ce_loss: 2.1157 - kd_loss: 0.0048 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 12s 218ms/step - total_loss: 1.4937 - ce_loss: 2.1154 - kd_loss: 0.0048 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 12s 208ms/step - total_loss: 1.4936 - ce_loss: 2.1152 - kd_loss: 0.0048 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 9 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 9: Loss=1.6021, Accuracy=0.3002
+[CLIENT B-1] Evaluation Round 9: Loss=2.3993, Accuracy=0.3450
+[CLIENT B-2] Epoch 1/8 - 5s 262ms/step - total_loss: 1.5286 - ce_loss: 2.1800 - kd_loss: 0.0009 - accuracy: 0.3236
+[CLIENT B-2] Epoch 2/8 - 5s 259ms/step - total_loss: 1.5275 - ce_loss: 2.1785 - kd_loss: 0.0010 - accuracy: 0.3236
+[CLIENT B-2] Epoch 3/8 - 4s 232ms/step - total_loss: 1.5265 - ce_loss: 2.1770 - kd_loss: 0.0010 - accuracy: 0.3236
+[CLIENT B-1] Epoch 1/8 - 15s 255ms/step - total_loss: 1.4937 - ce_loss: 2.1150 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-2] Epoch 4/8 - 5s 258ms/step - total_loss: 1.5255 - ce_loss: 2.1756 - kd_loss: 0.0010 - accuracy: 0.3236
+[CLIENT B-2] Epoch 5/8 - 5s 284ms/step - total_loss: 1.5246 - ce_loss: 2.1742 - kd_loss: 0.0010 - accuracy: 0.3236
+[CLIENT B-2] Epoch 6/8 - 5s 283ms/step - total_loss: 1.5236 - ce_loss: 2.1728 - kd_loss: 0.0010 - accuracy: 0.3236
+[CLIENT B-1] Epoch 2/8 - 15s 265ms/step - total_loss: 1.4936 - ce_loss: 2.1148 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-2] Epoch 7/8 - 5s 293ms/step - total_loss: 1.5227 - ce_loss: 2.1714 - kd_loss: 0.0010 - accuracy: 0.3236
+[CLIENT B-2] Epoch 8/8 - 5s 289ms/step - total_loss: 1.5218 - ce_loss: 2.1701 - kd_loss: 0.0010 - accuracy: 0.3236
+
+[CLIENT B-2] ROUND 10 COMPLETED
+============================================================
+
+[CLIENT B-1] Epoch 3/8 - 15s 269ms/step - total_loss: 1.4935 - ce_loss: 2.1146 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-1] Epoch 4/8 - 17s 291ms/step - total_loss: 1.4934 - ce_loss: 2.1144 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-1] Epoch 5/8 - 15s 261ms/step - total_loss: 1.4933 - ce_loss: 2.1143 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-1] Epoch 6/8 - 14s 245ms/step - total_loss: 1.4932 - ce_loss: 2.1141 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-1] Epoch 7/8 - 12s 215ms/step - total_loss: 1.4931 - ce_loss: 2.1140 - kd_loss: 0.0049 - accuracy: 0.3483
+[CLIENT B-1] Epoch 8/8 - 11s 193ms/step - total_loss: 1.4930 - ce_loss: 2.1138 - kd_loss: 0.0049 - accuracy: 0.3483
+
+[CLIENT B-1] ROUND 10 COMPLETED
+============================================================
+
+[CLIENT B-2] Evaluation Round 10: Loss=1.5945, Accuracy=0.3002
+[CLIENT B-1] Evaluation Round 10: Loss=2.5031, Accuracy=0.3450

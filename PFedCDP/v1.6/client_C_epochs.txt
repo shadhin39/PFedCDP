@@ -1,0 +1,100 @@
+CLIENT C (ID: 2) DETAILED EPOCH TRACKING
+============================================================
+
+[CLIENT C-1] ROUND 1 COMPLETED
+============================================================
+
+
+[CLIENT C-2] ROUND 1 COMPLETED
+============================================================
+
+[CLIENT C-2] Evaluation Round 1: Loss=2.6372, Accuracy=0.0000
+[CLIENT C-1] Evaluation Round 1: Loss=2.7965, Accuracy=0.0004
+
+[CLIENT C-1] ROUND 2 COMPLETED
+============================================================
+
+
+[CLIENT C-2] ROUND 2 COMPLETED
+============================================================
+
+[CLIENT C-1] Evaluation Round 2: Loss=2.7965, Accuracy=0.0004
+[CLIENT C-2] Evaluation Round 2: Loss=2.6372, Accuracy=0.0000
+
+[CLIENT C-1] ROUND 3 COMPLETED
+============================================================
+
+
+[CLIENT C-2] ROUND 3 COMPLETED
+============================================================
+
+[CLIENT C-2] Evaluation Round 3: Loss=2.6372, Accuracy=0.0000
+[CLIENT C-1] Evaluation Round 3: Loss=2.7965, Accuracy=0.0004
+
+[CLIENT C-2] ROUND 4 COMPLETED
+============================================================
+
+
+[CLIENT C-1] ROUND 4 COMPLETED
+============================================================
+
+[CLIENT C-1] Evaluation Round 4: Loss=2.7965, Accuracy=0.0004
+[CLIENT C-2] Evaluation Round 4: Loss=2.6372, Accuracy=0.0000
+
+[CLIENT C-1] ROUND 5 COMPLETED
+============================================================
+
+
+[CLIENT C-2] ROUND 5 COMPLETED
+============================================================
+
+[CLIENT C-2] Evaluation Round 5: Loss=2.6372, Accuracy=0.0000
+[CLIENT C-1] Evaluation Round 5: Loss=2.7965, Accuracy=0.0004
+
+[CLIENT C-2] ROUND 6 COMPLETED
+============================================================
+
+
+[CLIENT C-1] ROUND 6 COMPLETED
+============================================================
+
+[CLIENT C-2] Evaluation Round 6: Loss=2.6372, Accuracy=0.0000
+[CLIENT C-1] Evaluation Round 6: Loss=2.7965, Accuracy=0.0004
+
+[CLIENT C-1] ROUND 7 COMPLETED
+============================================================
+
+
+[CLIENT C-2] ROUND 7 COMPLETED
+============================================================
+
+[CLIENT C-1] Evaluation Round 7: Loss=2.7965, Accuracy=0.0004
+[CLIENT C-2] Evaluation Round 7: Loss=2.6372, Accuracy=0.0000
+
+[CLIENT C-2] ROUND 8 COMPLETED
+============================================================
+
+
+[CLIENT C-1] ROUND 8 COMPLETED
+============================================================
+
+[CLIENT C-1] Evaluation Round 8: Loss=2.7965, Accuracy=0.0004
+[CLIENT C-2] Evaluation Round 8: Loss=2.6372, Accuracy=0.0000
+
+[CLIENT C-2] ROUND 9 COMPLETED
+============================================================
+
+
+[CLIENT C-1] ROUND 9 COMPLETED
+============================================================
+
+[CLIENT C-2] Evaluation Round 9: Loss=2.6372, Accuracy=0.0000
+[CLIENT C-1] Evaluation Round 9: Loss=2.7965, Accuracy=0.0004
+
+[CLIENT C-1] ROUND 10 COMPLETED
+============================================================
+
+
+[CLIENT C-2] ROUND 10 COMPLETED
+============================================================
+

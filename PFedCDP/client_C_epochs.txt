@@ -1,0 +1,258 @@
+[CLIENT C-2] Epoch 1/6 - loss: 2.2299 - accuracy: 0.1432
+[CLIENT C-2] Epoch 2/6 - loss: 2.0190 - accuracy: 0.3237
+[CLIENT C-2] Epoch 3/6 - loss: 1.8275 - accuracy: 0.3858
+[CLIENT C-2] Epoch 4/6 - loss: 1.6500 - accuracy: 0.4320
+[CLIENT C-2] Epoch 5/6 - loss: 1.5057 - accuracy: 0.4639
+[CLIENT C-2] Epoch 6/6 - loss: 1.3540 - accuracy: 0.5485
+[CLIENT C-1] Epoch 1/6 - loss: 460.7525 - accuracy: 0.0861
+[CLIENT C-1] Epoch 2/6 - loss: 312.1407 - accuracy: 0.1170
+[CLIENT C-1] Epoch 3/6 - loss: 214.5206 - accuracy: 0.1547
+[CLIENT C-1] Epoch 4/6 - loss: 158.7859 - accuracy: 0.2292
+[CLIENT C-1] Epoch 5/6 - loss: 123.9443 - accuracy: 0.2943
+[CLIENT C-1] Epoch 6/6 - loss: 98.1392 - accuracy: 0.3367
+[CLIENT C-2] Epoch 1/6 - loss: 1.2526 - accuracy: 0.5947
+[CLIENT C-2] Epoch 2/6 - loss: 1.1547 - accuracy: 0.6533
+[CLIENT C-2] Epoch 3/6 - loss: 1.0523 - accuracy: 0.7047
+[CLIENT C-2] Epoch 4/6 - loss: 0.9753 - accuracy: 0.7231
+[CLIENT C-2] Epoch 5/6 - loss: 0.9150 - accuracy: 0.7260
+[CLIENT C-2] Epoch 6/6 - loss: 0.8411 - accuracy: 0.7527
+[CLIENT C-2] Epoch 1/6 - loss: 2.2801 - accuracy: 0.1556
+[CLIENT C-2] Epoch 2/6 - loss: 2.1017 - accuracy: 0.3314
+[CLIENT C-2] Epoch 3/6 - loss: 1.9047 - accuracy: 0.3953
+[CLIENT C-2] Epoch 4/6 - loss: 1.6650 - accuracy: 0.4521
+[CLIENT C-2] Epoch 5/6 - loss: 1.4786 - accuracy: 0.5166
+[CLIENT C-2] Epoch 6/6 - loss: 1.3727 - accuracy: 0.5278
+[CLIENT C-1] Epoch 1/6 - loss: 608.5396 - accuracy: 0.1172
+[CLIENT C-1] Epoch 2/6 - loss: 425.9260 - accuracy: 0.1803
+[CLIENT C-1] Epoch 3/6 - loss: 322.1879 - accuracy: 0.2493
+[CLIENT C-1] Epoch 4/6 - loss: 255.7042 - accuracy: 0.3215
+[CLIENT C-1] Epoch 5/6 - loss: 210.6188 - accuracy: 0.3910
+[CLIENT C-1] Epoch 6/6 - loss: 169.6335 - accuracy: 0.4493
+[CLIENT C-2] Epoch 1/6 - loss: 1.2432 - accuracy: 0.6148
+[CLIENT C-2] Epoch 2/6 - loss: 1.1410 - accuracy: 0.6503
+[CLIENT C-1] Epoch 1/6 - loss: 142.0651 - accuracy: 0.4949
+[CLIENT C-2] Epoch 3/6 - loss: 1.0490 - accuracy: 0.6923
+[CLIENT C-2] Epoch 4/6 - loss: 0.9728 - accuracy: 0.7296
+[CLIENT C-2] Epoch 5/6 - loss: 0.9004 - accuracy: 0.7473
+[CLIENT C-2] Epoch 6/6 - loss: 0.8535 - accuracy: 0.7639
+[CLIENT C-1] Epoch 2/6 - loss: 129.6681 - accuracy: 0.5196
+[CLIENT C-1] Epoch 3/6 - loss: 114.7931 - accuracy: 0.5457
+[CLIENT C-1] Epoch 4/6 - loss: 99.4024 - accuracy: 0.5675
+[CLIENT C-1] Epoch 5/6 - loss: 89.5568 - accuracy: 0.5975
+[CLIENT C-1] Epoch 6/6 - loss: 79.8731 - accuracy: 0.6223
+[CLIENT C-2] Epoch 1/6 - loss: 0.8228 - accuracy: 0.7763
+[CLIENT C-2] Epoch 2/6 - loss: 0.7653 - accuracy: 0.7793
+[CLIENT C-2] Epoch 3/6 - loss: 0.7387 - accuracy: 0.7905
+[CLIENT C-1] Epoch 1/6 - loss: 74.8811 - accuracy: 0.6346
+[CLIENT C-2] Epoch 4/6 - loss: 0.7350 - accuracy: 0.7911
+[CLIENT C-2] Epoch 5/6 - loss: 0.7081 - accuracy: 0.7947
+[CLIENT C-2] Epoch 6/6 - loss: 0.6916 - accuracy: 0.7876
+[CLIENT C-1] Epoch 2/6 - loss: 66.9644 - accuracy: 0.6490
+[CLIENT C-1] Epoch 3/6 - loss: 59.9045 - accuracy: 0.6587
+[CLIENT C-1] Epoch 4/6 - loss: 57.2448 - accuracy: 0.6714
+[CLIENT C-1] Epoch 5/6 - loss: 52.1766 - accuracy: 0.6778
+[CLIENT C-1] Epoch 6/6 - loss: 49.3008 - accuracy: 0.6871
+[CLIENT C-2] Epoch 1/6 - loss: 0.6549 - accuracy: 0.8071
+[CLIENT C-2] Epoch 2/6 - loss: 0.6557 - accuracy: 0.8071
+[CLIENT C-2] Epoch 3/6 - loss: 0.6457 - accuracy: 0.8095
+[CLIENT C-1] Epoch 1/6 - loss: 45.4841 - accuracy: 0.6929
+[CLIENT C-2] Epoch 4/6 - loss: 0.6270 - accuracy: 0.8107
+[CLIENT C-2] Epoch 5/6 - loss: 0.6112 - accuracy: 0.8201
+[CLIENT C-1] Epoch 2/6 - loss: 44.0353 - accuracy: 0.7026
+[CLIENT C-2] Epoch 6/6 - loss: 0.5980 - accuracy: 0.8154
+[CLIENT C-1] Epoch 3/6 - loss: 38.6888 - accuracy: 0.7096
+[CLIENT C-1] Epoch 4/6 - loss: 38.1753 - accuracy: 0.7131
+[CLIENT C-1] Epoch 5/6 - loss: 35.2957 - accuracy: 0.7176
+[CLIENT C-1] Epoch 6/6 - loss: 32.0357 - accuracy: 0.7275
+[CLIENT C-2] Epoch 1/6 - loss: 0.6036 - accuracy: 0.8130
+[CLIENT C-2] Epoch 2/6 - loss: 0.5768 - accuracy: 0.8272
+[CLIENT C-2] Epoch 3/6 - loss: 0.5748 - accuracy: 0.8325
+[CLIENT C-1] Epoch 1/6 - loss: 30.8156 - accuracy: 0.7292
+[CLIENT C-2] Epoch 4/6 - loss: 0.5728 - accuracy: 0.8290
+[CLIENT C-2] Epoch 5/6 - loss: 0.5541 - accuracy: 0.8337
+[CLIENT C-1] Epoch 2/6 - loss: 29.4861 - accuracy: 0.7330
+[CLIENT C-2] Epoch 6/6 - loss: 0.5625 - accuracy: 0.8308
+[CLIENT C-1] Epoch 3/6 - loss: 26.9414 - accuracy: 0.7368
+[CLIENT C-1] Epoch 4/6 - loss: 25.9337 - accuracy: 0.7452
+[CLIENT C-1] Epoch 5/6 - loss: 24.2759 - accuracy: 0.7465
+[CLIENT C-1] Epoch 6/6 - loss: 22.3115 - accuracy: 0.7537
+[CLIENT C-2] Epoch 1/6 - loss: 0.5362 - accuracy: 0.8331
+[CLIENT C-2] Epoch 2/6 - loss: 0.5395 - accuracy: 0.8320
+[CLIENT C-1] Epoch 1/6 - loss: 20.9324 - accuracy: 0.7493
+[CLIENT C-2] Epoch 3/6 - loss: 0.5204 - accuracy: 0.8367
+[CLIENT C-2] Epoch 4/6 - loss: 0.5126 - accuracy: 0.8385
+[CLIENT C-2] Epoch 5/6 - loss: 0.5127 - accuracy: 0.8467
+[CLIENT C-2] Epoch 6/6 - loss: 0.4912 - accuracy: 0.8503
+[CLIENT C-1] Epoch 2/6 - loss: 20.5694 - accuracy: 0.7555
+[CLIENT C-1] Epoch 3/6 - loss: 19.6612 - accuracy: 0.7624
+[CLIENT C-1] Epoch 4/6 - loss: 19.0803 - accuracy: 0.7683
+[CLIENT C-1] Epoch 5/6 - loss: 17.7704 - accuracy: 0.7582
+[CLIENT C-1] Epoch 6/6 - loss: 16.5819 - accuracy: 0.7663
+[CLIENT C-2] Epoch 1/6 - loss: 0.5009 - accuracy: 0.8414
+[CLIENT C-2] Epoch 2/6 - loss: 0.5099 - accuracy: 0.8391
+[CLIENT C-2] Epoch 3/6 - loss: 0.4909 - accuracy: 0.8438
+[CLIENT C-1] Epoch 1/6 - loss: 15.7473 - accuracy: 0.7708
+[CLIENT C-2] Epoch 4/6 - loss: 0.4774 - accuracy: 0.8574
+[CLIENT C-2] Epoch 5/6 - loss: 0.4845 - accuracy: 0.8438
+[CLIENT C-2] Epoch 6/6 - loss: 0.4750 - accuracy: 0.8521
+[CLIENT C-1] Epoch 2/6 - loss: 15.0113 - accuracy: 0.7745
+[CLIENT C-1] Epoch 3/6 - loss: 13.9956 - accuracy: 0.7621
+[CLIENT C-1] Epoch 4/6 - loss: 13.8501 - accuracy: 0.7703
+[CLIENT C-1] Epoch 5/6 - loss: 12.4546 - accuracy: 0.7756
+[CLIENT C-1] Epoch 6/6 - loss: 12.3869 - accuracy: 0.7743
+[CLIENT C-2] Epoch 1/6 - loss: 0.4794 - accuracy: 0.8450
+[CLIENT C-2] Epoch 2/6 - loss: 0.4454 - accuracy: 0.8544
+[CLIENT C-2] Epoch 3/6 - loss: 0.4624 - accuracy: 0.8467
+[CLIENT C-1] Epoch 1/6 - loss: 11.9640 - accuracy: 0.7765
+[CLIENT C-2] Epoch 4/6 - loss: 0.4555 - accuracy: 0.8604
+[CLIENT C-2] Epoch 5/6 - loss: 0.4449 - accuracy: 0.8627
+[CLIENT C-2] Epoch 6/6 - loss: 0.4408 - accuracy: 0.8580
+[CLIENT C-1] Epoch 2/6 - loss: 11.0704 - accuracy: 0.7787
+[CLIENT C-1] Epoch 3/6 - loss: 10.9940 - accuracy: 0.7752
+[CLIENT C-1] Epoch 4/6 - loss: 10.0828 - accuracy: 0.7760
+[CLIENT C-1] Epoch 5/6 - loss: 9.9500 - accuracy: 0.7787
+[CLIENT C-1] Epoch 6/6 - loss: 9.5147 - accuracy: 0.7763
+[CLIENT C-2] Epoch 1/6 - loss: 0.4335 - accuracy: 0.8580
+[CLIENT C-2] Epoch 2/6 - loss: 0.4565 - accuracy: 0.8515
+[CLIENT C-2] Epoch 3/6 - loss: 0.4493 - accuracy: 0.8533
+[CLIENT C-1] Epoch 1/6 - loss: 8.8500 - accuracy: 0.7816
+[CLIENT C-2] Epoch 4/6 - loss: 0.4212 - accuracy: 0.8716
+[CLIENT C-2] Epoch 5/6 - loss: 0.4437 - accuracy: 0.8556
+[CLIENT C-2] Epoch 6/6 - loss: 0.4244 - accuracy: 0.8657
+[CLIENT C-1] Epoch 2/6 - loss: 8.4794 - accuracy: 0.7831
+[CLIENT C-1] Epoch 3/6 - loss: 8.6543 - accuracy: 0.7712
+[CLIENT C-1] Epoch 4/6 - loss: 7.9834 - accuracy: 0.7762
+[CLIENT C-1] Epoch 5/6 - loss: 7.3540 - accuracy: 0.7877
+[CLIENT C-1] Epoch 6/6 - loss: 6.5344 - accuracy: 0.7877
+[CLIENT C-2] Epoch 1/6 - loss: 0.4106 - accuracy: 0.8728
+[CLIENT C-2] Epoch 2/6 - loss: 0.4159 - accuracy: 0.8609
+[CLIENT C-2] Epoch 3/6 - loss: 0.4121 - accuracy: 0.8663
+[CLIENT C-1] Epoch 1/6 - loss: 6.8864 - accuracy: 0.7785
+[CLIENT C-2] Epoch 4/6 - loss: 0.4157 - accuracy: 0.8722
+[CLIENT C-2] Epoch 5/6 - loss: 0.4084 - accuracy: 0.8692
+[CLIENT C-2] Epoch 6/6 - loss: 0.4027 - accuracy: 0.8757
+[CLIENT C-1] Epoch 2/6 - loss: 6.7111 - accuracy: 0.7782
+[CLIENT C-1] Epoch 3/6 - loss: 6.3088 - accuracy: 0.7774
+[CLIENT C-1] Epoch 4/6 - loss: 5.6531 - accuracy: 0.7888
+[CLIENT C-1] Epoch 5/6 - loss: 5.6076 - accuracy: 0.7802
+[CLIENT C-1] Epoch 6/6 - loss: 5.4134 - accuracy: 0.7864
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.5680 (CE: 2.2376, KD: 0.0006) - Accuracy: 0.3666 - Time: 6.73s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.4578 (CE: 2.0714, KD: 0.0029) - Accuracy: 0.4424 - Time: 5.74s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.3979 (CE: 1.9812, KD: 0.0041) - Accuracy: 0.4888 - Time: 5.96s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.6844 (CE: 2.3860, KD: 0.0053) - Accuracy: 0.0750 - Time: 18.29s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.3598 (CE: 1.9277, KD: 0.0039) - Accuracy: 0.5507 - Time: 6.03s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.3154 (CE: 1.8650, KD: 0.0037) - Accuracy: 0.6092 - Time: 5.75s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.2616 (CE: 1.7882, KD: 0.0037) - Accuracy: 0.7161 - Time: 5.88s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.6705 (CE: 2.3654, KD: 0.0054) - Accuracy: 0.0957 - Time: 18.26s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.6712 (CE: 2.3664, KD: 0.0054) - Accuracy: 0.0947 - Time: 16.85s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.6679 (CE: 2.3617, KD: 0.0054) - Accuracy: 0.0994 - Time: 10.42s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.6649 (CE: 2.3575, KD: 0.0054) - Accuracy: 0.1037 - Time: 9.10s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.6563 (CE: 2.3452, KD: 0.0054) - Accuracy: 0.1160 - Time: 8.65s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.2170 (CE: 1.7226, KD: 0.0041) - Accuracy: 0.7831 - Time: 3.17s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1944 (CE: 1.6891, KD: 0.0044) - Accuracy: 0.8064 - Time: 3.21s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1822 (CE: 1.6708, KD: 0.0047) - Accuracy: 0.8115 - Time: 3.69s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.6524 (CE: 2.3395, KD: 0.0054) - Accuracy: 0.1216 - Time: 10.85s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1727 (CE: 1.6568, KD: 0.0048) - Accuracy: 0.8193 - Time: 4.22s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1664 (CE: 1.6476, KD: 0.0049) - Accuracy: 0.8265 - Time: 3.89s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1600 (CE: 1.6383, KD: 0.0049) - Accuracy: 0.8321 - Time: 4.35s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.6532 (CE: 2.3408, KD: 0.0054) - Accuracy: 0.1204 - Time: 12.55s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.6373 (CE: 2.3180, KD: 0.0055) - Accuracy: 0.1430 - Time: 10.34s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.6290 (CE: 2.3060, KD: 0.0055) - Accuracy: 0.1551 - Time: 10.09s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.6212 (CE: 2.2948, KD: 0.0055) - Accuracy: 0.1664 - Time: 10.64s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.5656 (CE: 2.2151, KD: 0.0056) - Accuracy: 0.2461 - Time: 12.70s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1627 (CE: 1.6423, KD: 0.0049) - Accuracy: 0.8260 - Time: 6.17s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1584 (CE: 1.6358, KD: 0.0049) - Accuracy: 0.8310 - Time: 5.84s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1569 (CE: 1.6338, KD: 0.0049) - Accuracy: 0.8343 - Time: 6.26s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.5226 (CE: 2.1532, KD: 0.0057) - Accuracy: 0.3079 - Time: 19.60s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1530 (CE: 1.6280, KD: 0.0050) - Accuracy: 0.8405 - Time: 6.61s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1476 (CE: 1.6202, KD: 0.0050) - Accuracy: 0.8494 - Time: 5.98s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1484 (CE: 1.6211, KD: 0.0050) - Accuracy: 0.8483 - Time: 6.05s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.5048 (CE: 2.1274, KD: 0.0058) - Accuracy: 0.3335 - Time: 19.15s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.5010 (CE: 2.1219, KD: 0.0058) - Accuracy: 0.3393 - Time: 15.37s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.5047 (CE: 2.1274, KD: 0.0058) - Accuracy: 0.3337 - Time: 13.24s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4987 (CE: 2.1185, KD: 0.0058) - Accuracy: 0.3425 - Time: 10.25s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4980 (CE: 2.1174, KD: 0.0058) - Accuracy: 0.3437 - Time: 9.82s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1478 (CE: 1.6204, KD: 0.0050) - Accuracy: 0.8494 - Time: 3.88s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1465 (CE: 1.6185, KD: 0.0050) - Accuracy: 0.8505 - Time: 3.67s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1449 (CE: 1.6161, KD: 0.0050) - Accuracy: 0.8516 - Time: 4.44s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4980 (CE: 2.1175, KD: 0.0058) - Accuracy: 0.3436 - Time: 12.47s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1443 (CE: 1.6155, KD: 0.0050) - Accuracy: 0.8510 - Time: 4.00s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1449 (CE: 1.6162, KD: 0.0050) - Accuracy: 0.8455 - Time: 3.84s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1404 (CE: 1.6098, KD: 0.0050) - Accuracy: 0.8600 - Time: 4.26s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4968 (CE: 2.1157, KD: 0.0059) - Accuracy: 0.3455 - Time: 12.13s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4964 (CE: 2.1152, KD: 0.0059) - Accuracy: 0.3460 - Time: 10.06s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4969 (CE: 2.1159, KD: 0.0058) - Accuracy: 0.3452 - Time: 9.91s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4965 (CE: 2.1154, KD: 0.0058) - Accuracy: 0.3458 - Time: 12.28s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4956 (CE: 2.1140, KD: 0.0058) - Accuracy: 0.3471 - Time: 12.16s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1387 (CE: 1.6073, KD: 0.0050) - Accuracy: 0.8594 - Time: 5.89s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1374 (CE: 1.6054, KD: 0.0051) - Accuracy: 0.8605 - Time: 5.49s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1385 (CE: 1.6070, KD: 0.0051) - Accuracy: 0.8544 - Time: 5.56s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4960 (CE: 2.1146, KD: 0.0058) - Accuracy: 0.3465 - Time: 18.24s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1340 (CE: 1.6006, KD: 0.0051) - Accuracy: 0.8667 - Time: 6.81s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1352 (CE: 1.6023, KD: 0.0050) - Accuracy: 0.8644 - Time: 6.12s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1361 (CE: 1.6033, KD: 0.0051) - Accuracy: 0.8628 - Time: 5.24s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4968 (CE: 2.1157, KD: 0.0058) - Accuracy: 0.3454 - Time: 18.93s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4959 (CE: 2.1144, KD: 0.0058) - Accuracy: 0.3468 - Time: 14.74s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4949 (CE: 2.1130, KD: 0.0058) - Accuracy: 0.3481 - Time: 14.29s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4931 (CE: 2.1106, KD: 0.0058) - Accuracy: 0.3507 - Time: 16.12s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4912 (CE: 2.1079, KD: 0.0058) - Accuracy: 0.3532 - Time: 13.35s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1379 (CE: 1.6061, KD: 0.0051) - Accuracy: 0.8583 - Time: 4.57s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1341 (CE: 1.6004, KD: 0.0051) - Accuracy: 0.8650 - Time: 4.82s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1335 (CE: 1.5997, KD: 0.0051) - Accuracy: 0.8656 - Time: 4.87s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4850 (CE: 2.0993, KD: 0.0058) - Accuracy: 0.3619 - Time: 15.31s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1333 (CE: 1.5994, KD: 0.0051) - Accuracy: 0.8656 - Time: 5.20s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1320 (CE: 1.5974, KD: 0.0051) - Accuracy: 0.8667 - Time: 5.22s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1321 (CE: 1.5976, KD: 0.0051) - Accuracy: 0.8695 - Time: 4.66s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4833 (CE: 2.0968, KD: 0.0057) - Accuracy: 0.3643 - Time: 14.14s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4853 (CE: 2.0997, KD: 0.0058) - Accuracy: 0.3615 - Time: 12.29s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4813 (CE: 2.0940, KD: 0.0058) - Accuracy: 0.3671 - Time: 12.80s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4760 (CE: 2.0865, KD: 0.0057) - Accuracy: 0.3746 - Time: 11.39s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4715 (CE: 2.0801, KD: 0.0057) - Accuracy: 0.3809 - Time: 11.89s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1329 (CE: 1.5988, KD: 0.0051) - Accuracy: 0.8672 - Time: 5.38s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1301 (CE: 1.5947, KD: 0.0051) - Accuracy: 0.8706 - Time: 4.56s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1305 (CE: 1.5951, KD: 0.0051) - Accuracy: 0.8723 - Time: 5.07s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4720 (CE: 2.0809, KD: 0.0057) - Accuracy: 0.3800 - Time: 16.14s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1311 (CE: 1.5960, KD: 0.0052) - Accuracy: 0.8678 - Time: 4.81s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1315 (CE: 1.5966, KD: 0.0051) - Accuracy: 0.8650 - Time: 3.05s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1292 (CE: 1.5935, KD: 0.0051) - Accuracy: 0.8689 - Time: 4.03s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4703 (CE: 2.0786, KD: 0.0057) - Accuracy: 0.3826 - Time: 12.05s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4701 (CE: 2.0782, KD: 0.0057) - Accuracy: 0.3827 - Time: 13.25s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4660 (CE: 2.0723, KD: 0.0057) - Accuracy: 0.3888 - Time: 13.62s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4619 (CE: 2.0666, KD: 0.0057) - Accuracy: 0.3945 - Time: 11.98s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4589 (CE: 2.0623, KD: 0.0057) - Accuracy: 0.3992 - Time: 11.70s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1312 (CE: 1.5962, KD: 0.0051) - Accuracy: 0.8678 - Time: 3.89s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1299 (CE: 1.5944, KD: 0.0051) - Accuracy: 0.8717 - Time: 4.03s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1294 (CE: 1.5936, KD: 0.0051) - Accuracy: 0.8706 - Time: 4.51s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4590 (CE: 2.0623, KD: 0.0057) - Accuracy: 0.3988 - Time: 13.00s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1282 (CE: 1.5917, KD: 0.0052) - Accuracy: 0.8723 - Time: 3.85s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1272 (CE: 1.5905, KD: 0.0051) - Accuracy: 0.8750 - Time: 4.07s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1279 (CE: 1.5915, KD: 0.0051) - Accuracy: 0.8717 - Time: 3.38s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4596 (CE: 2.0633, KD: 0.0057) - Accuracy: 0.3977 - Time: 11.33s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4564 (CE: 2.0587, KD: 0.0057) - Accuracy: 0.4023 - Time: 10.79s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4539 (CE: 2.0551, KD: 0.0057) - Accuracy: 0.4058 - Time: 11.07s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4469 (CE: 2.0451, KD: 0.0057) - Accuracy: 0.4159 - Time: 14.23s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4427 (CE: 2.0392, KD: 0.0057) - Accuracy: 0.4216 - Time: 14.31s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1285 (CE: 1.5924, KD: 0.0051) - Accuracy: 0.8717 - Time: 4.41s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1313 (CE: 1.5961, KD: 0.0052) - Accuracy: 0.8667 - Time: 4.64s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1279 (CE: 1.5915, KD: 0.0051) - Accuracy: 0.8706 - Time: 4.52s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4374 (CE: 2.0316, KD: 0.0057) - Accuracy: 0.4294 - Time: 13.98s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1273 (CE: 1.5904, KD: 0.0052) - Accuracy: 0.8734 - Time: 4.19s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1252 (CE: 1.5876, KD: 0.0051) - Accuracy: 0.8756 - Time: 4.17s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1263 (CE: 1.5893, KD: 0.0051) - Accuracy: 0.8756 - Time: 4.30s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4346 (CE: 2.0275, KD: 0.0057) - Accuracy: 0.4335 - Time: 13.86s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4298 (CE: 2.0205, KD: 0.0057) - Accuracy: 0.4406 - Time: 11.22s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4354 (CE: 2.0286, KD: 0.0057) - Accuracy: 0.4325 - Time: 14.92s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4289 (CE: 2.0193, KD: 0.0057) - Accuracy: 0.4419 - Time: 14.30s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4249 (CE: 2.0135, KD: 0.0057) - Accuracy: 0.4474 - Time: 14.01s
+[CLIENT C-2] Round 1 - Epoch 1/6 - Loss: 1.1287 (CE: 1.5925, KD: 0.0052) - Accuracy: 0.8706 - Time: 6.23s
+[CLIENT C-2] Round 1 - Epoch 2/6 - Loss: 1.1270 (CE: 1.5900, KD: 0.0052) - Accuracy: 0.8745 - Time: 5.38s
+[CLIENT C-1] Round 1 - Epoch 1/6 - Loss: 1.4239 (CE: 2.0120, KD: 0.0057) - Accuracy: 0.4491 - Time: 16.30s
+[CLIENT C-2] Round 1 - Epoch 3/6 - Loss: 1.1254 (CE: 1.5878, KD: 0.0051) - Accuracy: 0.8762 - Time: 4.29s
+[CLIENT C-2] Round 1 - Epoch 4/6 - Loss: 1.1238 (CE: 1.5854, KD: 0.0052) - Accuracy: 0.8784 - Time: 4.13s
+[CLIENT C-2] Round 1 - Epoch 5/6 - Loss: 1.1231 (CE: 1.5845, KD: 0.0052) - Accuracy: 0.8806 - Time: 4.90s
+[CLIENT C-1] Round 1 - Epoch 2/6 - Loss: 1.4298 (CE: 2.0205, KD: 0.0057) - Accuracy: 0.4404 - Time: 13.10s
+[CLIENT C-2] Round 1 - Epoch 6/6 - Loss: 1.1248 (CE: 1.5869, KD: 0.0052) - Accuracy: 0.8767 - Time: 4.18s
+[CLIENT C-1] Round 1 - Epoch 3/6 - Loss: 1.4195 (CE: 2.0059, KD: 0.0057) - Accuracy: 0.4553 - Time: 12.34s
+[CLIENT C-1] Round 1 - Epoch 4/6 - Loss: 1.4196 (CE: 2.0060, KD: 0.0057) - Accuracy: 0.4550 - Time: 12.77s
+[CLIENT C-1] Round 1 - Epoch 5/6 - Loss: 1.4162 (CE: 2.0011, KD: 0.0057) - Accuracy: 0.4600 - Time: 12.27s
+[CLIENT C-1] Round 1 - Epoch 6/6 - Loss: 1.4163 (CE: 2.0013, KD: 0.0057) - Accuracy: 0.4597 - Time: 11.16s

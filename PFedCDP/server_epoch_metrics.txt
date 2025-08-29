@@ -1,0 +1,13 @@
+=== Enhanced Server Epoch Metrics ===
+
+Model A Metrics:
+
+Model B Metrics:
+Round 1: Accuracy=0.1452, Loss=2.2969
+Round 2: Accuracy=0.3356, Loss=2.0018
+Round 3: Accuracy=0.3356, Loss=1.8585
+Round 4: Accuracy=0.3356, Loss=1.8281
+Round 5: Accuracy=0.3356, Loss=1.8996
+Round 6: Accuracy=0.3356, Loss=2.0467
+
+Last Updated: 1752054497.886212
