@@ -1,5 +1,3 @@
-# 🏥 PFedCDP: Privacy-Preserving Heterogeneity-Aware Personalized Federated Learning for Medical Imaging
-
 PFedCDP is a novel **Personalized Federated Learning (PFL) framework** designed to address the combined challenges of **device heterogeneity, statistical heterogeneity (non-IID data), privacy preservation, and communication efficiency**.  
 Our framework is specifically evaluated on **medical imaging datasets** to demonstrate its effectiveness in sensitive healthcare applications.
 
@@ -28,7 +26,7 @@ Our framework is specifically evaluated on **medical imaging datasets** to demon
 
 ---
 
-## ⚙️ Framework Architecture
+## Framework Architecture
 
 The PFedCDP framework operates in **two main phases**:  
 1. **Iterative Client-Side Training Loop** (personalization + selective parameter sharing).  
@@ -46,7 +44,7 @@ The PFedCDP framework operates in **two main phases**:
 
 ---
 
-## 📦 Datasets
+## Datasets
 
 We simulate realistic medical imaging with **two mammography datasets**:
 
@@ -91,7 +89,7 @@ shap
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Run PFedCDP
 - **Server**
@@ -125,7 +123,7 @@ python client.py
 
 ---
 
-## 📊 Results
+## Results
 
 PFedCDP achieves strong personalization and privacy preservation under heterogeneity, outperforming FedAvg and approaching centralized performance.
 
@@ -136,15 +134,3 @@ PFedCDP achieves strong personalization and privacy preservation under heterogen
 | **PFedCDP (Ours)**        | **94.1**                  | **99.5**            |
 
 ---
-
-## 📝 Citation
-If you use this work, please cite:
-
-```bibtex
-@article{shadin2025pfedcdp,
-  title={Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation},
-  author={Shadin, Nazmus Shakib and Zhang, Xinyue and Wang, Jingyi and Pan, Miao},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2025}
-}
-```
