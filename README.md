@@ -1,3 +1,6 @@
+# PFedCDP
+
+## Contents
 PFedCDP is a novel **Personalized Federated Learning (PFL) framework** designed to address the combined challenges of **device heterogeneity, statistical heterogeneity (non-IID data), privacy preservation, and communication efficiency**.  
 Our framework is specifically evaluated on **medical imaging datasets** to demonstrate its effectiveness in sensitive healthcare applications.
 
