@@ -1,5 +1,4 @@
 # server_mias.py
-# Federated Learning Server for MIAS Dataset
 from typing import List, Tuple, Dict, Optional
 from flwr.server import ServerConfig, start_server
 from flwr.server.strategy import FedAvg
