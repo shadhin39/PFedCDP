@@ -143,7 +143,7 @@ PFedCDP achieves strong personalization and privacy preservation under heterogen
 
 If you use any of the portion of this repository. Please cite the following paper:
 
-**Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation**
+**Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation** [https://par.nsf.gov/servlets/purl/10663562](https://par.nsf.gov/servlets/purl/10663562) 
 
 @inproceedings{shadin2025heterogeneity,
   title={Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation},
