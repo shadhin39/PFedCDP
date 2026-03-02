@@ -139,3 +139,15 @@ PFedCDP achieves strong personalization and privacy preservation under heterogen
 | **PFedCDP (Ours)**        | **94.1**                  | **99.5**            |
 
 ---
+### Paper
+
+If you use any of the portion of this repository. Please cite the following paper:
+
+**Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation**
+
+@inproceedings{shadin2025heterogeneity,
+  title={Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation},
+  author={Shadin, Nazmus Shakib and Zhang, Xinyue and Wang, Jingyi and Pan, Miao},
+  year={2025},
+  organization={IEEE International Conference on Big Data}
+}
