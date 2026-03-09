@@ -143,11 +143,15 @@ PFedCDP achieves strong personalization and privacy preservation under heterogen
 
 If you use any of the portion of this repository. Please cite the following paper:
 
-**Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation** [https://par.nsf.gov/servlets/purl/10663562](https://par.nsf.gov/servlets/purl/10663562) 
+**Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation** ([https://doi.org/10.1109/BigData66926.2025.11401860](https://doi.org/10.1109/BigData66926.2025.11401860)) 
 
-@inproceedings{shadin2025heterogeneity,
-  title={Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging via Contrastive Distillation},
+@INPROCEEDINGS{11401860,
   author={Shadin, Nazmus Shakib and Zhang, Xinyue and Wang, Jingyi and Pan, Miao},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)}, 
+  title={Heterogeneity-Aware Private Personalized Federated Learning for Medical Imaging Via Contrastive Distillation}, 
   year={2025},
-  organization={IEEE International Conference on Big Data}
-}
+  volume={},
+  number={},
+  pages={2033-2042},
+  keywords={Training;Differential privacy;Quantization (signal);Federated learning;Heuristic algorithms;Computational modeling;Collaboration;Contrastive learning;Data models;Biomedical imaging;Federated Learning;Client Clustering;Knowledge Distillation;Fisher Information;Contrastive Learning},
+  doi={10.1109/BigData66926.2025.11401860}}
